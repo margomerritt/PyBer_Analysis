@@ -12,9 +12,11 @@ In Deliverable 1 we produced a ride-sharing summary DataFrame by city type. This
 
 ![Screen Shot 2022-11-04 at 3 51 36 PM](https://user-images.githubusercontent.com/111299372/200063240-c6e0ab9f-ffe0-4677-850b-2307e950b3c2.png)
 
-From this chart we see that Urban city type had the highest total rides at 1625. The Suburban city type has a total of 625 total rides while the Rural areas have the least amount of total drivers at 125. Since there is a higher demand for rides in urban areas it makes sense that urban areas have the highest driver count at 2405. Rural areas have the least amount of drivers at a count of 78 total drivers. The same logic applies to Urban city type having the highest total fare amount at 39854.38 dollars. 
+From this chart we see that urban city type had the highest total rides at 1625. The suburban city type has a total of 625 total rides while the rural areas have the least amount of total drivers at 125. Since there is a higher demand for rides in urban areas it makes sense that urban areas have the highest driver count at 2405. Rural areas have the least amount of drivers at a count of 78 total drivers. The same logic applies to rrban city type having the highest total fare amount at 39854.38 dollars. 
 
-The highest average fare per ride is 34.62 dollars for the Rural city type. There is less demand in Rural areas so this could lead to a higher fee compared to suburban and urban areas. Rides in rural areas also travel a further distance to get to their destination point compared to Suburban and Urban rides. A longer drive will result in a higher fare. 
+The highest average fare per ride is $34.62 for the rural city type. There is less demand in rural areas so this could lead to a higher fee compared to suburban and urban areas. Rides in rural areas also travel a further distance to get to their destination point compared to suburban and urban rides. A longer drive will result in a higher fare for the rural city type. Suburban areas have an average of a $30.97 fare per ride. Urban areas have the cheapest average fare per ride at $24.52. 
+
+Because the rural rides have a higher average fare per ride this results in a higher average fare per driver. Since Rural areas have the highest average fare per driver they also have the highest average fare per driver at 55.48 dollars. Subruban areas have an average fare per driver of 39.5 dollars since there driving distance is less than rural areas but more than urban areas. Urban areas have the least average fare per driver at 16,57 dollars. 
 
 
 
