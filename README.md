@@ -24,5 +24,5 @@ In Deliverable 2 we produced a multiple-line chart of total fares for each city 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/111299372/200067229-ba55d471-2e47-4a22-8274-035515b647a2.png)
 
-
+From the multiple-line chart we see that urban rides had the highest total fare for the months displayed. Suburban areas had the second highest total fares and the rural areas had the lowest total fares. 
 ## Summary
