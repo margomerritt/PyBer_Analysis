@@ -26,3 +26,12 @@ In Deliverable 2 we produced a multiple-line chart of total fares for each city 
 
 From the multiple-line chart we see that urban rides had the highest total fare for the months displayed. Suburban areas had the second highest total fares and the rural areas had the lowest total fares. Thus we can conclude that urban areas are the most profitable for ride-sharing services while rural areas are the least profitable. 
 ## Summary
+The visualizations produced in Deliverable 1 and 2 can be used to help improve access to ridesharing services and to determine affordability for underserved neighborhoods. From this analysis we see that rural areas are underserved neighborhoods. Rural areas only had 125 total rides, but they only had 78 total drivers to service these rural areas. Having less drivers than total rides seems to be a disadvantage. The urban areas have 780 more drivers than total rides making it more accessible for urban areas than for rural or suburban areas. One step to take to increase accessibility of ridesharing is to offer more drivers in these underserved communities. 
+
+From the multiple-line chart in Deliverable 2 we see that there is a peak in total fares for all three city types towards the end of February. During this time there appears to be a peak in the need and used of ridesharing. Another way to make ridesharing more affordable for underserved communities is to offer a discount during peak times when ridesharing is needed the most. 
+
+
+
+
+
+
