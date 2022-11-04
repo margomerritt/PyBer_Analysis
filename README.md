@@ -8,4 +8,9 @@ The dataset was provided in two large CSV files: city_data.csv and ride_data.csv
 * Data Source: city_data.csv, ride_data.csv
 * Software: Python 3.9.12, Jupyter Notebook 6.4.8, Matplotlib 3.5.1, Pandas 1.4.2
 ## Results
+In Deliverable 1 we produced a ride-sharing summary DataFrame by city type. This chart has the type of city as the index. The three types of cities are Urban, Suburban, and Rural. Five columns of data are displayed in this chart: Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver. 
+![Screen Shot 2022-11-04 at 3 51 36 PM](https://user-images.githubusercontent.com/111299372/200063240-c6e0ab9f-ffe0-4677-850b-2307e950b3c2.png)
+
+From this chart we see that Urban city type had the highest total rides at 1625. The Suburban city type has a total of 625 total rides while the Rural areas have the least amount of total drivers at 125. Since there is a higher demand for rides in urban areas it makes sense that urban areas have the highest driver count at 2405. Rural areas have the least amount of drivers at a count of 78 total drivers. 
+
 ## Summary
